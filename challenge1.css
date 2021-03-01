@@ -1,0 +1,43 @@
+
+    .image-display{      padding-top: 100px;    }
+    .image-display img{ border-radius: 50%;      border: 5px solid white; display: block;    margin: 0px auto;}
+    p{
+      font-weight: 400;
+      font-size: 18px;
+    }
+
+    body{
+      font-weight: 700;
+      font-size: 18px;
+      background-image: url(file:///C:/Users/Admin/Desktop/html%20learning/frontend%20mentor%20challanges/profile-card-component-main/images/bg-pattern-bottom.svg), url(file:///C:/Users/Admin/Desktop/html%20learning/frontend%20mentor%20challanges/profile-card-component-main/images/bg-pattern-top.svg);
+      background-position: bottom left ,  top right ;
+      background-repeat: no-repeat;
+      background-color: hsl(185, 75%, 39%);
+    }
+    .recsmall{
+    display: block;
+    margin: auto;
+    margin-top: 216px;
+      width: 350px;
+      height: 150px;
+      background-image: url(file:///C:/Users/Admin/Desktop/html%20learning/frontend%20mentor%20challanges/profile-card-component-main/images/bg-pattern-card.svg);
+      border-radius: 25px 25px 0px 0px; 
+    }
+    .rec{
+      display: block;
+      margin: auto;
+      width:350px;
+      height:220px;
+      border:1px solid none;
+      border-radius: 0px 0px 25px 25px;
+      text-align: center;
+      background-size: 200px 100px;
+      background-color: white;
+
+      float: top
+
+    }
+
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    .test1{color: hsl(0, 0%, 59%);font-weight:400; font-size: 14px;font-family: kumbh Sans;}
